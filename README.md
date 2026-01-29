@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Kris Cooper
+
+I'm a Scottish astrophsyicist currently researching at the University of Minnesota.
+
+- 🔭 I’m currently working on [FOXSI-4 and -5](https://foxsi.umn.edu/) sounding rockets, the [FIERCE](https://ui.adsabs.harvard.edu/abs/2020AGUFMSH0480012S/abstract) mission concept, [Sunkit-spex](https://github.com/sunpy/sunkit-spex), and a couple of [NuSTAR](https://nustar.caltech.edu/) analysis projects.
+- 💬 Ask me about X-ray spectroscopy, Python, and data analysis techniques.
+- 📫 How to reach me: kristophercooper95@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun facts: My favourite colour is [teal](https://en.wikipedia.org/wiki/Teal), I'm a doctor (PhD), and I like most movies that [Tom Hanks](https://en.wikipedia.org/wiki/Tom_Hanks) is in!
