@@ -2,9 +2,9 @@
 <h1 align="center">Hi there, I'm Kris Cooper 👋</h1><h1><UNIVERSE AI</h1>
 <p align="center">
   <a href="https://github.com/KriSun95"><img src="https://img.shields.io/github/followers/KriSun95?label=GitHub&style=social" /></a>
-  <a href="[https://www.linkedin.com/in/kris-cooper-3a78943a5/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/kris-cooper-3a78943a5/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
   <a href="mailto:kristophercooper95@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="["https://krisun95.github.io/"><img src="https://img.shields.io/badge/Website-Visit-green" /></a>
+  <a href="https://krisun95.github.io/"><img src="https://img.shields.io/badge/Website-Visit-green" /></a>
 </p>
 
 <!--
