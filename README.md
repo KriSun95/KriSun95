@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Kris Cooper 👋
 
 <!--
 **KriSun95/KriSun95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Kris Cooper
-
-I'm a Scottish astrophsyicist currently researching at the University of Minnesota.
+I am a Scottish astrophsyicist currently researching at the University of Minnesota.
 
 - 🔭 I’m currently working on [FOXSI-4 and -5](https://foxsi.umn.edu/) sounding rockets, the [FIERCE](https://ui.adsabs.harvard.edu/abs/2020AGUFMSH0480012S/abstract) mission concept, [Sunkit-spex](https://github.com/sunpy/sunkit-spex), and a couple of [NuSTAR](https://nustar.caltech.edu/) analysis projects.
 - 💬 Ask me about X-ray spectroscopy, Python, and data analysis techniques.
